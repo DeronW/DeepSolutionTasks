@@ -17,19 +17,19 @@ Screenshots
 
 -   start to counting
 
-![img](./task-1/screenshots/start.png)
+![img](https://raw.githubusercontent.com/DeronW/terminal/DeronW/DeepSolutionTasks/master/task-1/screenshots/start.png)
 
 -   half seconds left
 
-![img](./task-1/screenshots/half.png)
+![img](https://raw.githubusercontent.com/DeronW/terminal/DeronW/DeepSolutionTasks/master/task-1/screenshots/half.png)
 
 -   20 seconds
 
-![img](./task-1/screenshots/20.png)
+![img](https://raw.githubusercontent.com/DeronW/terminal/DeronW/DeepSolutionTasks/master/task-1/screenshots/20.png)
 
 -   time up
 
-![img](./task-1/screenshots/timeup.jpg)
+![img](https://raw.githubusercontent.com/DeronW/terminal/DeronW/DeepSolutionTasks/master/task-1/screenshots/timeup.jpg)
 
 ### Task 2
 
