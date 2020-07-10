@@ -6,7 +6,7 @@ function Form({ startHandler, minutes }) {
     let [disabled, setDisabled] = useState(false);
 
     let clickHandler = () => {
-        startHandler(minutes);
+        startHandler(text);
     };
 
     useEffect(clickHandler, []);
